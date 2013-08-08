@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="spring-mvc-ajax-demo"
+  id="myeclipse.1375853272203"
+  context-root="/ajax-demo"
+  j2ee-spec="5.0"
+  archive="spring-mvc-ajax-demo.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

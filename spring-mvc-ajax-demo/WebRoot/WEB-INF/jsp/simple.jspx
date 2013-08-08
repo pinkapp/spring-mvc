@@ -1,0 +1,5 @@
+<html xmlns:jsp="http://java.sun.com/JSP/Page">
+<jsp:output doctype-root-element="HTML" doctype-system="about:legacy-compat" />
+<jsp:directive.page contentType="text/html;charset=UTF-8" /> 
+<body>${message }</body>
+</html>
